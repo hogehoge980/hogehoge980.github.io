@@ -21,6 +21,13 @@ body {
   color: #333;
 }
 
+body {
+  background-image: url("https://openprocessing.org/sketch/2127817/embed/");
+  background-size: cover; /* Adjust size and positioning as needed */
+}
+
+
+
 /* --------------------
         見出し
 -------------------- */
